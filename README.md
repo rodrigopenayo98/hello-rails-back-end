@@ -116,7 +116,7 @@ Clone this repository to your desired folder:
 
 ```sh
 
-  cd hello-rails-react
+  cd hello-rails-back-end
 
   git clone https://github.com/rodrigopenayo98/hello-rails-back-end.git
 

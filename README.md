@@ -177,8 +177,7 @@ To run linter tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- *Improve user interface*
-- *Create a mobile version*
+- *Personalized Greetings*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

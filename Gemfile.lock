@@ -124,6 +124,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
+    pg (1.5.4)
+    pg (1.5.4-x64-mingw-ucrt)
     psych (5.1.1.1)
       stringio
     puma (6.4.0)
@@ -194,6 +196,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   debug
+  pg
   puma (>= 5.0)
   rails (~> 7.1.1)
   sqlite3 (~> 1.4)

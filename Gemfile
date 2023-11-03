@@ -48,3 +48,5 @@ end
 
 gem 'pg' 
 
+gem 'rack-cors'
+
